@@ -1,0 +1,12 @@
+body{
+    background-color: burlywood;
+}
+h1, h2, h3, h4, h5, h6{
+    padding: 15px;
+    margin: 20px 15px;
+    background-color: rgb(55, 55, 161);
+    border-radius: 10px;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+}
